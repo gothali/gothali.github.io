@@ -1,4 +1,8 @@
 body{
-background-color: lightblue;
-
+background: linear-gradient(lightCyan, skyBlue,sandyBrown
+);
+text-align: center;
+}
+main{
+color: aqua;
 }
