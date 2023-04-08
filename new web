@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+ <head>
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <header>
+   <h1>Basra & Furniture</h1>
+   <nav>
+    <a class="nav-item"
+     href="index.html"><strong><button>Home</button></strong></a>
+    <a class="nav-item"
+     href="about.html"><strong><button>About</button></strong></a>
+    <a class="nav-item"
+     href="contact.html"><strong><button>Contact</button></strong></a>
+   </nav>
+  </header>
+  <main>
+   <ul>
+    <li>Linus' approach to furnishing his
+     apartment has been slow and laid-back,
+     possibly explained by his years of
+     working as a surf instructor! “For anyone
+     who’s moving out for the first time, or
+     into a small space," he says, "I would
+     say try not to plan too much in advance.”
+     When you move in with just the absolute
+     essentials, like a bed and cooking
+     utensils, he continues, “you can get a
+     feel for the place, what you need and
+     where things should go."</li>
+   </ul>
+   <img
+    src="https://mimo.app/i/minimalist_living_room.png"
+    alt="Minimalist living room">
+   <ul>
+    <li id="children">Basra Family members now
+     save 5% in-store* on eligible purchases
+     every time you visit and will also save on
+     select delivery options**. Plus, you get
+     special offers, free in-store perks, price
+     protection, and more. It’s free to join,
+     and you’ll be saving in no time. </li>
+   </ul>
+   <img
+    src="https://mimo.app/i/cozy-living-room.png"
+    alt="Cozy living room">
+   <h2>Winter Celebration Offers!</h2>
+   <ul>
+    <li>The season of savings is still going
+     strong! Visit your local GOTHOM store for
+     huge year-end deals on a selection of
+     home furniture and furnishings!</li>
+   </ul>
+   <img
+    src="https://mimo.app/i/homekia-kitchen.png"
+    alt="Homekia kitchen">
+   <h2>Affordable Home Essentials Under $20</h2>
+   <ul>
+    <li>We love offering the best quality
+     products at an affordable price. Now
+     we’re making it even easier to shop and
+     find what you want for under $20.</li>
+    <li><button onclick="addFlexbox()">
+</ul>
+<script></script>
+</body>
+</html>
